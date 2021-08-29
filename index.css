@@ -1,14 +1,62 @@
 .bar {
-background-color: rgb(192, 171, 204);
+background-color: rgb(212, 34, 168);
 }
-
- p {
+html
+{
     background-image: url("image/wall.jpeg");
-    list-style-type: none;
-    display: inline;
-    margin-left: 60px;
-    color: rgb(196, 75, 196);
 }
+.flex-container nav{
+    background-color: rgb(240, 231, 241);
+    color: rgb(219, 38, 38);: rgb(71, 238, 49);
+}
+h2{
+    color: lawngreen;
+    width: 300px;
+    border: 15px solid rgb(57, 156, 140);
+    padding: 50px;
+    margin: 20px;
+}
+.images1 p {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+  .images2 p {
+    width: 300px;
+    border: 15px solid rgb(128, 115, 0);
+    padding: 50px;
+    margin: 20px;
+  }
+  .images3 p {
+    width: 300px;
+    border: 15px solid rgb(115, 52, 158);
+    padding: 50px;
+    margin: 20px;
+  }
+  .images4 p {
+    width: 300px;
+    border: 15px solid rgb(57, 156, 140);
+    padding: 50px;
+    margin: 20px;
+  }
+  .images5 p {
+    width: 300px;
+    border: 15px solid rgb(15, 196, 15);
+    padding: 50px;
+    margin: 20px;
+  }
+ 
+.text div {
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+  .image2 div {
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
 .text{
     margin-block-start: 25px;
 }
