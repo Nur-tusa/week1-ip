@@ -5,6 +5,7 @@
 *1.Nu Nure Tusa*
 
 # Setup/Installation Requirements
+
 1. Clone the project using git -clone . If you are not able to clone it, you can download the files as a zip folder
 
 2. Ensure that you have the complete file
