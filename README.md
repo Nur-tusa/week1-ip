@@ -1,3 +1,5 @@
+# WEEK 1 
+
 # Application name
  portfolio landing page
 
