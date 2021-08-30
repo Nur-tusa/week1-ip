@@ -20,7 +20,7 @@ This is a project that shows portfolio landing page and biography
 nur-tusa.github.io/week1-ip/
 
 
-## built with
+## BUilt with
 *1.html*
 *2.css*
 
