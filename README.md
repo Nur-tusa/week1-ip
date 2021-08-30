@@ -36,7 +36,6 @@ nur-tusa.github.io/week1-ip/
 *ADDRESS - NAIROBI KENYA *.
 
 
-
 #### licence information with a copyright & date
 
 2021 Copyright All Rights Reserved To tusa company
