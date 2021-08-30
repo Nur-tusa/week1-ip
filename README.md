@@ -1,4 +1,5 @@
-# WEEK 1 
+# WEEK 1
+PROJECT LANDING PAGE
 
 # Application name
  portfolio landing page
