@@ -1,7 +1,7 @@
 # WEEK 1
 PROJECT LANDING PAGE
 
-# Application name
+## Application name
  portfolio landing page
 
 ## Names of the author
@@ -18,7 +18,7 @@ PROJECT LANDING PAGE
 4. Copy the path of the index.html file to your browser and you will be able to access the application.
 
 
-# diescription of the project purpose
+# description of the project purpose
 This is a project that shows portfolio landing page and biography
 
 
