@@ -1,7 +1,7 @@
 # WEEK 1
 PROJECT LANDING PAGE
 
-## Application name
+## APPLICATION NAME.
  portfolio landing page
 
 ## Names of the author
