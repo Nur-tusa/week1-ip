@@ -16,6 +16,8 @@ PROJECT LANDING PAGE
 3. Navigate to the index.html file which is in the root file of the folder. The application is static and only uses HTML and CSS 
 
 4. Copy the path of the index.html file to your browser and you will be able to access the application.
+
+
 # diescription of the project purpose
 This is a project that shows portfolio landing page and biography
 
