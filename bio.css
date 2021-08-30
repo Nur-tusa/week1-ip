@@ -6,6 +6,9 @@ background-repeat: no-repeat;
     color: rgb(252, 248, 248);
 
 }
+.bio li a{
+    color: rgb(43, 197, 12);
+}
 img{
     position: center;
 }
