@@ -5,7 +5,7 @@ PROJECT LANDING PAGE
  portfolio landing page
 
 ## Names of the author
-*1.Nu Nure Tusa*
+*1.Nur Nure Tusa*
 
 # Setup/Installation Requirements
 
