@@ -4,7 +4,7 @@ PROJECT LANDING PAGE
 ## APPLICATION NAME.
  portfolio landing page
 
-## Names of the author
+## NAMES OF AUTHOR
 *1.Nur Nure Tusa*
 
 # Setup/Installation Requirements
