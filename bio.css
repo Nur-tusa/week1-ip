@@ -6,6 +6,9 @@ background-repeat: no-repeat;
     color: rgb(252, 248, 248);
 
 }
+img{
+    position: center;
+}
 #container{
     width: 900px;
     margin-left: auto;
